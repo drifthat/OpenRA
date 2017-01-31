@@ -79,3 +79,7 @@ StyleCopViolations.xml
 
 # Support directory
 /Support
+
+# local solutions
+OpenRA2.sln
+
